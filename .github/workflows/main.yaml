@@ -1,7 +1,7 @@
 name: deploy WebApp Azure
 
 env:
-    AZURE_WEBAPP_NAME: pitak-web-app
+    AZURE_WEBAPP_NAME: kanruetai-web-app
 
 on:
   push:
